@@ -17,6 +17,6 @@ when you refresh the page, the page does not reset.
 
 ## You can find the applications at the following locations
 
-* URL of the deployed application:  
+* URL of the deployed application: https://civ187.github.io/Work_Day_Scheduler 
 
 * GitHub repository: https://github.com/civ187/Work_Day_Scheduler
